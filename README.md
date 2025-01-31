@@ -14,7 +14,7 @@ This repository contains a Kotlin-based project for Google Authentication.
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/2d521de8-07ed-445a-bcaa-6b7aaee79d64" alt="Image 1" width="200"/></td>
-    <td><img src="https://github.com/user-attachments/assets/90a36ab8-d152-47d2-bab9-9f613ee7bdfe" alt="Image 2" width="200"/></td>
+    <td><img src="https://github.com/user-attachments/assets/3bc2dcfb-cf2a-4c13-81c1-89bcaabed87b" alt="Image 2" width="200"/></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/d232ca3b-0048-4d08-b857-8cbb002e3642" alt="Image 3" width="200"/></td>
